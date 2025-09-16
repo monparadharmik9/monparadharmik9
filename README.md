@@ -39,17 +39,14 @@ I’m eager to contribute to impactful projects, collaborate with diverse teams,
 
 ## 🌱 Learning Journey
 
+## 🌱 Learning Journey
+
 **Currently Learning**  
-- Machine Learning (in depth)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-informational?style=flat&logo=scikitlearn&logoColor=white&color=orange)  
 
 **Will Learn Next**  
-- Advanced SQL Optimization  
-- Deep Learning  
-- Django  
-- Flask  
-- FastAPI  
-- Big Data Tools (Hadoop, Spark)  
-- Cloud Technologies for Data Analytics (AWS, GCP, Azure)  
+![SQL](https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Big Data](https://img.shields.io/badge/Big%20Data-FF9900?style=flat&logo=apachehadoop&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud%20Analytics-4285F4?style=flat&logo=googlecloud&logoColor=white)  
 
 ---
 
